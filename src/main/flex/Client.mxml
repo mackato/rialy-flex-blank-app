@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (c) 2010 AIRS.
+  -->
+<mx:Application
+    xmlns:mx="http://www.adobe.com/2006/mxml"
+    initialize="boot(this)">
+  <mx:Button id="button" label="Click me!" />
+</mx:Application>
