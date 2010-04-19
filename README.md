@@ -1,6 +1,6 @@
-# RIALY Blank Application Project for Flex
+# Blank Project for RIALY Flex Application
 
-This is a blank Application Project using [RIALY](http://github.com/mackato/rialy-flex-framework)
+This is a blank application project using [RIALY](http://github.com/mackato/rialy-flex-framework).
 
 ## License
 
